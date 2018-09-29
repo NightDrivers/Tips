@@ -1,0 +1,4 @@
+- 自定义代码块目录：~/Library/Developer/Xcode/UserData/CodeSnippets 
+- codesnippets为xml格式文件
+- xml里面IDECodeSnippetIdentifier 是代码块的唯一标志，用户自定义的代码块不能有重复的IDECodeSnippetIdentifier，否则会引起xcode崩溃
+- 用户自定义的代码块会覆盖相同IDECodeSnippetIdentifier值的Xcode默认代码块
